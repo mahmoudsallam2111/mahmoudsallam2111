@@ -1,7 +1,6 @@
-
 <h1 align="center">Hi 👋, I'm Mahmoud Ali</h1>
-<h3 align="center">A passionate .NET developer</h3>
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw17HT8ZENlNZeQJFjCR20G1&ust=1680312952144000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCKjl09eDhf4CFQAAAAAdAAAAABAE" alt="">
+<h3 align="center">A passionate .NET developer </h3>
+<img align="right" width="400"  src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Coding">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahmoudsallam2111&label=Profile%20views&color=0e75b6&style=flat" alt="mahmoudsallam2111" /> </p>
 
